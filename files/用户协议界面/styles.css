@@ -426,3 +426,34 @@
   width:193px;
   white-space:nowrap;
 }
+#u136_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:12px;
+  height:21px;
+}
+#u136 {
+  position:absolute;
+  left:416px;
+  top:97px;
+  width:12px;
+  height:21px;
+}
+#u137 {
+  position:absolute;
+  left:2px;
+  top:2px;
+  width:8px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u138 {
+  position:absolute;
+  left:404px;
+  top:91px;
+  width:40px;
+  height:36px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
